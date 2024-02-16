@@ -28,3 +28,5 @@ Download the app now and discover how to elevate your coaching to the next level
 
 [AppStore](https://apps.apple.com/de/app/volleymatch/id6455731542)
 ![Download](../assets/img/AppStoreIcon.svg)
+
+[![AppStoreIcon](../assets/img/AppStoreIcon.svg)](https://apps.apple.com/de/app/volleymatch/id6455731542)
