@@ -26,7 +26,5 @@ Whether you're an experienced coach or a newcomer, VolleyMatch equips you with t
 
 Download the app now and discover how to elevate your coaching to the next level. Get the app today and revolutionize your volleyball coaching experience!
 
-[AppStore](https://apps.apple.com/de/app/volleymatch/id6455731542)
-![Download](../assets/img/AppStoreIcon.svg)
+[![AppStoreIcon](https://swiftyjoe.github.io/assets/img/AppStoreIcon.svg)](https://apps.apple.com/de/app/volleymatch/id6455731542)
 
-[![AppStoreIcon](../assets/img/AppStoreIcon.svg)](https://apps.apple.com/de/app/volleymatch/id6455731542)
